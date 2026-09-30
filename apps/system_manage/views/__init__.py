@@ -1,0 +1,12 @@
+# coding=utf-8
+"""
+    @project: Ragent
+    @Author：orangelop
+    @file： __init__.py.py
+    @date：2025/4/16 19:07
+    @desc:
+"""
+from .user_resource_permission import *
+from .email_setting import *
+from .system_profile import *
+from .resource_mapping import *

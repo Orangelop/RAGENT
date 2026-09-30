@@ -1,0 +1,28 @@
+export default {
+  github: 'Project Address',
+  wiki: 'User Manual',
+  forum: 'Forum For Help',
+  logout: 'Log Out',
+  apiKey: 'API Key',
+  apiServiceAddress: 'API Service Address',
+  language: 'Language',
+  crossSettings: 'Cross-Origin Settings',
+  about: {
+    expiredTime: 'Expiration Date',
+    inner_admin: 'System Admin',
+    inner_wsm: 'Workspace Manager',
+    inner_user: 'Regular User',
+    root: 'Root Directory',
+    default_workspace: 'Default Workspace',
+    default_user_group: 'Default User Group',
+  },
+  time: {
+    daysLater: 'days later expire',
+    hoursLater: 'hours later expire',
+    minutesLater: 'minutes later expire',
+    expired: 'expired',
+    expiringSoon: 'expiring soon',
+    neverExpires: 'Never expires',
+    daysValid: 'Days valid',
+  },
+}

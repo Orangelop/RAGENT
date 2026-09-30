@@ -1,0 +1,28 @@
+export default {
+  github: '項目地址',
+  wiki: '使用者手冊',
+  forum: '論壇求助',
+  logout: '登出',
+  apiKey: 'API Key 管理',
+  apiServiceAddress: 'API 服務地址',
+  language: '語言',
+  crossSettings: '跨域設定',
+  about: {
+    expiredTime: '到期時間',
+    inner_admin: '系統管理員',
+    inner_wsm: '工作空間管理員',
+    inner_user: '普通用戶',
+    root: '根目錄',
+    default_workspace: '預設工作空間',
+    default_user_group: '預設使用者群組',
+  },
+  time: {
+    daysLater: '天後过期',
+    hoursLater: '小時後过期',
+    expired: '已過期',
+    minutesLater: '分鐘後过期',
+    expiringSoon: '即將到期',
+    neverExpires: '永不過期',
+    daysValid: '天有效',
+  },
+}

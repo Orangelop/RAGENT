@@ -1,0 +1,28 @@
+export default {
+  github: '项目地址',
+  wiki: '用户手册',
+  forum: '论坛求助',
+  logout: '退出登录',
+  apiKey: 'API Key 管理',
+  apiServiceAddress: 'API 服务地址',
+  language: '语言',
+  crossSettings: '跨域设置',
+  about: {
+    expiredTime: '到期时间',
+    inner_admin: '系统管理员',
+    inner_wsm: '工作空间管理员',
+    inner_user: '普通用户',
+    root: '根目录',
+    default_workspace: '默认工作空间',
+    default_user_group: '默认用户组',
+  },
+  time: {
+    daysLater: '天后过期',
+    hoursLater: '小时后过期',
+    minutesLater: '分钟后过期',
+    expired: '已过期',
+    expiringSoon: '即将到期',
+    neverExpires: '永不过期',
+    daysValid: '天有效',
+  },
+}
